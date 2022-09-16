@@ -1,7 +1,14 @@
 # Me chamo Victor Ferri
 
-## Minhas Habilidades:
+## SoftSkills:
+* Proativo
+* Trabalho em equipe
+* Criatividade
 
-* Teste 1
-* Teste 2
-* Teste 3
+## Hardskills:
+
+* Ingles
+* Javascript
+* Css
+* Html
+* React
